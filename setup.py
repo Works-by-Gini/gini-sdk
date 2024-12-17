@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gini-sdk',
-    version='0.1.0',
+    version='0.1.2',
     author='Roba Olana',
     author_email='support@gini.works',
     description='SDK to interact with Gini',
