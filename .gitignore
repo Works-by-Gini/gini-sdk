@@ -1,0 +1,11 @@
+# venv
+venv/
+
+# dist
+dist/
+
+# build
+build/
+
+# deploy
+deploy.txt

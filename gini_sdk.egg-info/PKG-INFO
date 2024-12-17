@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: gini-sdk
+Version: 0.1.0
+Summary: SDK to interact with Gini
+Home-page: https://github.com/Works-By-Gini/gini-sdk
+Author: Roba Olana
+Author-email: support@gini.works
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+License-File: LICENSE

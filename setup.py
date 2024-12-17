@@ -6,8 +6,8 @@ setup(
     author='Roba Olana',
     author_email='support@gini.works',
     description='SDK to interact with Gini',
-    long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
+    # long_description=open('README.md').read(),
+    # long_description_content_type='text/markdown',
     url='https://github.com/Works-By-Gini/gini-sdk', 
     packages=find_packages(),
     classifiers=[
@@ -17,4 +17,9 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.10',
+    install_requires=[
+        'pycryptodome>=3.19.0',  # For encryption
+        'requests>=2.31.0',       # For HTTP requests
+        'pydantic>=2.0.0',       # For data validation
+    ],
 )

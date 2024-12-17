@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+gini_sdk.egg-info/PKG-INFO
+gini_sdk.egg-info/SOURCES.txt
+gini_sdk.egg-info/dependency_links.txt
+gini_sdk.egg-info/top_level.txt
